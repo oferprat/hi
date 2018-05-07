@@ -1,3 +1,4 @@
 # hi
-trying github
-Some more text to try commit
+trying github<br>
+Some more text to try commit<br>
+Straight in master branch
